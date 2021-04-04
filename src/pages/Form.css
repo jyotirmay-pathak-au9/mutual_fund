@@ -1,0 +1,16 @@
+.form {
+    text-align: center;
+    margin: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid black;
+}
+
+input {
+    margin: 30px;
+    font-size: 35px;
+}
+
+.query {
+    height: 80px;
+}
